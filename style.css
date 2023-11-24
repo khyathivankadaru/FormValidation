@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(160, 168, 143);
+}
+form{
+    text-align:center;
+}
+
+.userIdError,.passwordError, .nameError , .countryError,.genderError,.languageError, .zipCodeError,.emailError{
+    color: red;
+  }
